@@ -3,7 +3,7 @@
 // import Footer from "../features/common/Footer";
 
 import NavBar from "../features/navbar/Navbar";
-import ProductList from "../features/product-list/ProductList";
+import ProductList from "../features/product-list/components/ProductList";
 
     
 function Home() {
